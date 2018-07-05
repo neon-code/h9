@@ -173,12 +173,12 @@ export default class App extends Component {
                 * Please disable AdBlock and any other antivirus software before you begin. Make sure to "Allow" popups/cookies on this app! * <br />
               </p>
 
-              <p style={{ color: "#1976D2", fontSize: "20px" }}>Your task is to label 50 images by selecting labels from a category list. It includes 3 steps below:</p>
+              <p style={{ color: "#1976D2", fontSize: "20px" }}>Your task is to label 150 images by selecting labels from a category list. It includes 3 steps below:</p>
 
               Step 1:&nbsp;&nbsp;&nbsp;Watch the image (right side of the interface) <br /><br />
               Step 2:&nbsp;&nbsp;&nbsp;Select a suitable label from the category list (left side of the interface) for the image. <br />
               (For example, if the image is a laptop, you need to select “laptop” label) <br /><br />
-              Step 3:&nbsp;&nbsp;&nbsp;Please press “next image” for labeling next image (start from Step 1 again).<br /><br />
+              Step 3:&nbsp;&nbsp;&nbsp;Please press “Next Image” for labeling next image (start from Step 1 again).<br /><br />
 
               <p style={{ fontSize: "14px" }}>
                 * There is no "uncertain" button. If you cannot find an appropriate label, just select your best guess<br />
