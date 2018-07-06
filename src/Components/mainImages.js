@@ -166,7 +166,7 @@ var fileDir = {
 var activeIndex = Math.floor(Math.random() * 50), usedImages = [activeIndex], taskDone = 1, flag;
 var timeTaken = { minutes: 0, seconds: 0, milsec: 0 }, indvTime = [0, 0, 0], addTime = [0, 0, 0], avgTime = [], Interval;
 var level = 1, fileName = fileDir[level][activeIndex].fileName, levelFlag = [ true, true ];
-const LevelLimit = [5, 10, 15];
+const LevelLimit = [50, 100, 150];
 
 export class MainImages extends React.Component {
 
